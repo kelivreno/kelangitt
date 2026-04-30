@@ -53,4 +53,4 @@ Computer Science in Business
 - [GitHub](https://github.com/kelivreno)
 - [LinkedIn](https://www.linkedin.com/in/kelangithakim/)
 - Email: [me@kelangithakim.com](mailto:me@kelangithakim.com)
-- Resume: [Download my resume](assets/Resume_KelangitHakim.pdf)
+- Resume: [Download my resume](Resume_KelangitHakim.pdf)
