@@ -1,10 +1,12 @@
 # Kelangit Hakim
 
-Welcome to my GitHub portfolio! I'm an SWE based in Los Angeles.
+Welcome to my GitHub portfolio! I'm a Front End Developer based in Los Angeles.
 
 ## About Me
 
-A short paragraph about who you are, what you do, and what you're passionate about. Keep it 2–3 sentences.
+I'm a front-end developer with a passion for building interactive web apps and gadgets.
+I enjoy turning ideas into real, working projects — from password generators to games.
+Currently growing my JavaScript skills and expanding my toolkit one project at a time.
 
 ---
 
