@@ -1,6 +1,6 @@
-# Your Name
+# Kelangit Hakim
 
-Welcome to my GitHub portfolio! I'm a [your role] based in [your location].
+Welcome to my GitHub portfolio! I'm an SWE based in Los Angeles.
 
 ## About Me
 
